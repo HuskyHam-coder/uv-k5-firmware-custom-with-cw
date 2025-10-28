@@ -22,7 +22,7 @@
 int txstatus =0;
 bool txen = false;
 int isHalted = 0;
-char* cwid_m = "DE N0CALL"; //Edit this Message
+char* cwid_m = "UCONN REC DE KC1MJZ/FOX"; //Edit this Message
 
 void morseDelay(uint16_t tms){
         gCustomCountdown_10ms     = tms/10;   
